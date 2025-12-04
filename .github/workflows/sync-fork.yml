@@ -5,24 +5,15 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Sync with upstream
+      - name: Sync fork via GitHub API
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add upstream https://github.com/kmbhm1/supabase-pydantic.git
-          git fetch upstream
-          git checkout main
-          git merge upstream/main --no-edit
-          git push origin main
+          gh api repos/${{ github.repository }}/merge-upstream \
+            -X POST \
+            -f branch=main \
+            --jq '.message // .merge_type'
