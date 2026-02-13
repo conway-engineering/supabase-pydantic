@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.10 (2026-02-12)
+
+### Chore
+
+* chore(deps-dev): bump pillow from 11.1.0 to 12.1.1 (#127)
+
+Bumps [pillow](https://github.com/python-pillow/Pillow) from 11.1.0 to 12.1.1.
+- [Release notes](https://github.com/python-pillow/Pillow/releases)
+- [Changelog](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)
+- [Commits](https://github.com/python-pillow/Pillow/compare/11.1.0...12.1.1)
+
+---
+updated-dependencies:
+- dependency-name: pillow
+  dependency-version: 12.1.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`dcfe67b`](https://github.com/kmbhm1/supabase-pydantic/commit/dcfe67b94055244186daaf95b82bbc54231ca17a))
+
 ## v0.26.9 (2026-01-14)
 
 ### Fix
