@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.11 (2026-03-12)
+
+### Chore
+
+* chore(deps-dev): bump markdown from 3.7 to 3.8.1 (#128)
+
+Bumps [markdown](https://github.com/Python-Markdown/markdown) from 3.7 to 3.8.1.
+- [Release notes](https://github.com/Python-Markdown/markdown/releases)
+- [Changelog](https://github.com/Python-Markdown/markdown/blob/master/docs/changelog.md)
+- [Commits](https://github.com/Python-Markdown/markdown/compare/3.7...3.8.1)
+
+---
+updated-dependencies:
+- dependency-name: markdown
+  dependency-version: 3.8.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`dc98ab2`](https://github.com/kmbhm1/supabase-pydantic/commit/dc98ab25a6193640468ff3e07173ef1386522360))
+
 ## v0.26.10 (2026-02-12)
 
 ### Chore
