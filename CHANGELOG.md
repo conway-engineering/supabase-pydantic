@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v0.26.12 (2026-03-25)
+
+### Fix
+
+* fix: clear-text logging of sensitive information#129
+
+Signed-off-by: kmbhm1 &lt;kmbhm1@gmail.com&gt;
+Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-security[bot]@users.noreply.github.com&gt; ([`b5b9a70`](https://github.com/kmbhm1/supabase-pydantic/commit/b5b9a70824601da361584593c7c64ed5b958a2bc))
+
 ## v0.26.11 (2026-03-12)
 
 ### Chore
