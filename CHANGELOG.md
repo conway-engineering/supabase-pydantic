@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.14 (2026-04-01)
+
+### Chore
+
+* chore(deps): bump requests from 2.32.4 to 2.33.0 (#131)
+
+Bumps [requests](https://github.com/psf/requests) from 2.32.4 to 2.33.0.
+- [Release notes](https://github.com/psf/requests/releases)
+- [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)
+- [Commits](https://github.com/psf/requests/compare/v2.32.4...v2.33.0)
+
+---
+updated-dependencies:
+- dependency-name: requests
+  dependency-version: 2.33.0
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`c9490a2`](https://github.com/kmbhm1/supabase-pydantic/commit/c9490a25b9a0b4e595de82bb07563a1ef48d2656))
+
 ## v0.26.13 (2026-04-01)
 
 ### Chore
