@@ -1,5 +1,47 @@
 # CHANGELOG
 
+## v0.26.14 (2026-04-01)
+
+### Chore
+
+* chore(deps): bump requests from 2.32.4 to 2.33.0 (#131)
+
+Bumps [requests](https://github.com/psf/requests) from 2.32.4 to 2.33.0.
+- [Release notes](https://github.com/psf/requests/releases)
+- [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)
+- [Commits](https://github.com/psf/requests/compare/v2.32.4...v2.33.0)
+
+---
+updated-dependencies:
+- dependency-name: requests
+  dependency-version: 2.33.0
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`c9490a2`](https://github.com/kmbhm1/supabase-pydantic/commit/c9490a25b9a0b4e595de82bb07563a1ef48d2656))
+
+## v0.26.13 (2026-04-01)
+
+### Chore
+
+* chore(deps-dev): bump pygments from 2.19.1 to 2.20.0 (#130)
+
+Bumps [pygments](https://github.com/pygments/pygments) from 2.19.1 to 2.20.0.
+- [Release notes](https://github.com/pygments/pygments/releases)
+- [Changelog](https://github.com/pygments/pygments/blob/master/CHANGES)
+- [Commits](https://github.com/pygments/pygments/compare/2.19.1...2.20.0)
+
+---
+updated-dependencies:
+- dependency-name: pygments
+  dependency-version: 2.20.0
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`cab3a87`](https://github.com/kmbhm1/supabase-pydantic/commit/cab3a87a1dd5f2b0ae140db056ea4e283c342db2))
+
 ## v0.26.12 (2026-03-25)
 
 ### Fix
