@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.16 (2026-04-14)
+
+### Chore
+
+* chore(deps-dev): bump pytest from 8.3.4 to 9.0.3 (#133)
+
+Bumps [pytest](https://github.com/pytest-dev/pytest) from 8.3.4 to 9.0.3.
+- [Release notes](https://github.com/pytest-dev/pytest/releases)
+- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pytest-dev/pytest/compare/8.3.4...9.0.3)
+
+---
+updated-dependencies:
+- dependency-name: pytest
+  dependency-version: 9.0.3
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`2577168`](https://github.com/kmbhm1/supabase-pydantic/commit/25771687749f1f177a5eb062e7a3b0ccd8593964))
+
 ## v0.26.15 (2026-04-14)
 
 ### Chore
