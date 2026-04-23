@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.18 (2026-04-23)
+
+### Chore
+
+* chore(deps): bump python-dotenv from 1.0.1 to 1.2.2 (#135)
+
+Bumps [python-dotenv](https://github.com/theskumar/python-dotenv) from 1.0.1 to 1.2.2.
+- [Release notes](https://github.com/theskumar/python-dotenv/releases)
+- [Changelog](https://github.com/theskumar/python-dotenv/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/theskumar/python-dotenv/compare/v1.0.1...v1.2.2)
+
+---
+updated-dependencies:
+- dependency-name: python-dotenv
+  dependency-version: 1.2.2
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`b59b8cf`](https://github.com/kmbhm1/supabase-pydantic/commit/b59b8cf90a77d8b52ac81b246f0cbd14d3f08495))
+
 ## v0.26.17 (2026-04-23)
 
 ### Chore
