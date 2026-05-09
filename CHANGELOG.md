@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.20 (2026-05-09)
+
+### Chore
+
+* chore(deps-dev): bump gitpython from 3.1.47 to 3.1.50 (#137)
+
+Bumps [gitpython](https://github.com/gitpython-developers/GitPython) from 3.1.47 to 3.1.50.
+- [Release notes](https://github.com/gitpython-developers/GitPython/releases)
+- [Changelog](https://github.com/gitpython-developers/GitPython/blob/main/CHANGES)
+- [Commits](https://github.com/gitpython-developers/GitPython/compare/3.1.47...3.1.50)
+
+---
+updated-dependencies:
+- dependency-name: gitpython
+  dependency-version: 3.1.50
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`84e72ed`](https://github.com/kmbhm1/supabase-pydantic/commit/84e72ed5453cdba8d0bff7e69dc6671c1c8c66ae))
+
 ## v0.26.19 (2026-04-26)
 
 ### Chore
