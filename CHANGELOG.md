@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## v0.26.22 (2026-05-20)
+
+### Chore
+
+* chore(deps): bump idna from 3.10 to 3.15 (#139)
+
+Bumps [idna](https://github.com/kjd/idna) from 3.10 to 3.15.
+- [Release notes](https://github.com/kjd/idna/releases)
+- [Changelog](https://github.com/kjd/idna/blob/master/HISTORY.md)
+- [Commits](https://github.com/kjd/idna/compare/v3.10...v3.15)
+
+---
+updated-dependencies:
+- dependency-name: idna
+  dependency-version: &#39;3.15&#39;
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`e186d72`](https://github.com/kmbhm1/supabase-pydantic/commit/e186d722e6ddcbb2ca09768e4895b3a9fe40612e))
+
 ## v0.26.21 (2026-05-12)
 
 ### Chore
