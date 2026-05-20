@@ -1,5 +1,46 @@
 # CHANGELOG
 
+## v0.26.23 (2026-05-20)
+
+### Chore
+
+* chore(deps-dev): bump pymdown-extensions from 10.19.1 to 10.21.3 (#140)
+
+Bumps [pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) from 10.19.1 to 10.21.3.
+- [Release notes](https://github.com/facelessuser/pymdown-extensions/releases)
+- [Commits](https://github.com/facelessuser/pymdown-extensions/compare/10.19.1...10.21.3)
+
+---
+updated-dependencies:
+- dependency-name: pymdown-extensions
+  dependency-version: 10.21.3
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`f036112`](https://github.com/kmbhm1/supabase-pydantic/commit/f0361125cf47bbf6045c2c34c192d48f5553dea0))
+
+## v0.26.22 (2026-05-20)
+
+### Chore
+
+* chore(deps): bump idna from 3.10 to 3.15 (#139)
+
+Bumps [idna](https://github.com/kjd/idna) from 3.10 to 3.15.
+- [Release notes](https://github.com/kjd/idna/releases)
+- [Changelog](https://github.com/kjd/idna/blob/master/HISTORY.md)
+- [Commits](https://github.com/kjd/idna/compare/v3.10...v3.15)
+
+---
+updated-dependencies:
+- dependency-name: idna
+  dependency-version: &#39;3.15&#39;
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt; ([`e186d72`](https://github.com/kmbhm1/supabase-pydantic/commit/e186d722e6ddcbb2ca09768e4895b3a9fe40612e))
+
 ## v0.26.21 (2026-05-12)
 
 ### Chore
